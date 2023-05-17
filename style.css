@@ -20,4 +20,11 @@
 }
 .cabecalho-imagem{width: 20%;
 }
-.escola{background-image: linear-gradient(#962253,#4EBFE9);}
+.escola{background-image: linear-gradient(#962253,#4EBFE9);
+ color: white;
+ display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;}
+ .escola-conteudo{width: 35%;}
+ .escola-titulo{padding: 24px 0;}
